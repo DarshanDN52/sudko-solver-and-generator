@@ -36,8 +36,9 @@ Built using **Object-Oriented Programming** in C++ with clear modular design.
 
 ---
 
-## 🖥️ Sample Menu
+## 🧪 Sample Execution: Generate and Solve Puzzle
 
+```text
 Menu:
 1. Enter Sudoku Puzzle to Solve
 2. Generate Sudoku Puzzle
@@ -60,7 +61,6 @@ Select difficulty (1-Easy, 2-Medium, 3-Hard): 2
 | 5 1 6 | _ _ _ | _ 9 4 |
 | 2 _ 4 | _ 7 _ | 3 _ 1 |
 -------------------------
-
 Menu:
 1. Enter Sudoku Puzzle to Solve
 2. Generate Sudoku Puzzle
@@ -82,5 +82,7 @@ Choice: 3
 | 5 1 6 | 3 2 8 | 7 9 4 |
 | 2 8 4 | 6 7 9 | 3 5 1 |
 -------------------------
+
 Solved using 41 backtracks.
+
 
